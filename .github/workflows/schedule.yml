@@ -3,7 +3,7 @@ name: schedule
 on:
   workflow_dispatch:
   schedule:
-    - cron: "40 0 * * *"
+    - cron: "53 0 * * *"
 
 permissions:
   contents: write
