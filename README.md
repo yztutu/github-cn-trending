@@ -9,7 +9,7 @@
 ## 最新一期
 
 <!-- LATEST:START -->
-**最新一期：[2026-11-26 日报](daily/2026-11-26.md)**
+**最新一期：[2026-11-27 日报](daily/2026-11-27.md)**
 
 本期中文项目速览：jingyaogong/minimind、XiaoYouChR/Ghost-Downloader-3、zhouxiaoka/autoclip 等 3 个。
 <!-- LATEST:END -->
@@ -17,6 +17,7 @@
 ## 历史索引
 
 <!-- INDEX:START -->
+- [2026-11-27](daily/2026-11-27.md)
 - [2026-11-26](daily/2026-11-26.md)
 - [2026-11-25](daily/2026-11-25.md)
 - [2026-11-24](daily/2026-11-24.md)
