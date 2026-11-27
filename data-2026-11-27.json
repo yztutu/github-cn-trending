@@ -5,7 +5,7 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "total_stars": "25,174",
+      "total_stars": "25,175",
       "period_stars": "1,597",
       "is_chinese": false
     },
@@ -14,7 +14,7 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "total_stars": "327,813",
+      "total_stars": "327,814",
       "period_stars": "854",
       "is_chinese": false
     },
@@ -23,7 +23,7 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "total_stars": "66,623",
+      "total_stars": "66,624",
       "period_stars": "746",
       "is_chinese": false
     },
@@ -32,7 +32,7 @@
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
-      "total_stars": "71,947",
+      "total_stars": "71,950",
       "period_stars": "702",
       "is_chinese": true
     },
@@ -113,7 +113,7 @@
       "url": "https://github.com/Tracer-Cloud/opensre",
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
-      "total_stars": "15,954",
+      "total_stars": "15,955",
       "period_stars": "327",
       "is_chinese": false
     },
@@ -131,7 +131,7 @@
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
-      "total_stars": "19,486",
+      "total_stars": "19,487",
       "period_stars": "889",
       "is_chinese": true
     },
@@ -151,7 +151,7 @@
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "total_stars": "15,320",
+      "total_stars": "15,321",
       "period_stars": "1,631",
       "is_chinese": false
     },
@@ -187,7 +187,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "total_stars": "56,754",
+      "total_stars": "56,755",
       "period_stars": "2,284",
       "is_chinese": false
     },
@@ -205,7 +205,7 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "total_stars": "59,553",
+      "total_stars": "59,554",
       "period_stars": "1,175",
       "is_chinese": false
     },
@@ -250,7 +250,7 @@
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
-      "total_stars": "18,141",
+      "total_stars": "18,142",
       "period_stars": "1,430",
       "is_chinese": false
     },
@@ -259,7 +259,7 @@
       "url": "https://github.com/obsidianmd/obsidian-skills",
       "description": "Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.",
       "language": "Shell",
-      "total_stars": "54,141",
+      "total_stars": "54,142",
       "period_stars": "704",
       "is_chinese": false
     },
@@ -277,7 +277,7 @@
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
-      "total_stars": "11,684",
+      "total_stars": "11,687",
       "period_stars": "3,229",
       "is_chinese": false
     }
